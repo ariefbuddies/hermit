@@ -55,7 +55,7 @@ expiryDate = ["expiryDate"]
 
 [params.author]
   name = "Bening Abadi Transport"
-#  about = "BAT"
+  about = "BAT"
 
 [blackfriday]
   # hrefTargetBlank = true
