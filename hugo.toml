@@ -128,11 +128,11 @@ expiryDate = ["expiryDate"]
 
   [[menu.main]]
     name = "Sewa Mobil Jogja"
-    url = "posts/sewa-mobil-jogja/"
+    url = "posts/"
     weight = 10
 
   [[menu.main]]
-    name = "About"
+    name = "Rental Motor Jogja"
     url = "rental+motor+jogja/"
     weight = 20
 
