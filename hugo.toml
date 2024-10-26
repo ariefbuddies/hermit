@@ -5,8 +5,8 @@
 # Open Issue or Pull Request at https://github.com/1bl4z3r/hermit-V2
 
 baseURL = "https://ariefbuddies.github.io/hermit"
-defaultContentLanguage = "en"
-defaultContentLanguageInSubdir = true
+defaultContentLanguage = "id"
+defaultContentLanguageInSubdir = false
 theme = "hermit-v2"
 
 [languages]
