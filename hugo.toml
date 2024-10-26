@@ -138,5 +138,5 @@ expiryDate = ["expiryDate"]
 
   [[menu.main]]
     name = "Sewa Mobil Jogja"
-    url = "Sewa+Mobil+Jogja/"
+    url = "Sewa%20Mobil%20Jogja/"
     weight = 30
