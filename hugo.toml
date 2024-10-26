@@ -133,6 +133,6 @@ expiryDate = ["expiryDate"]
 
   [[menu.main]]
     name = "About"
-    url = "about-hugo/"
+    url = "rental+motor+jogja/"
     weight = 20
 
