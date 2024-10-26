@@ -93,9 +93,9 @@ expiryDate = ["expiryDate"]
   # bgImg = ""
   # gitUrl = "https://github.com/1bl4z3r/hermit-V2/tree/staging"
 
-  justifyContent = true
+  justifyContent = false
 
-  relatedPosts = true
+  relatedPosts = false
   code_copy_button = true
 
   homeSubtitlePrinter = true
@@ -103,7 +103,7 @@ expiryDate = ["expiryDate"]
   global_mathjax = false
   readTime = true
   readTimeSeparator = "CHANGE ME READ TIME"
-  # legacyLayout = false
+  legacyLayout = false
   shareSocial = false
   # googleTagManager = "GTM-XXXXXXXX"
   # tagSymbol = "#"
