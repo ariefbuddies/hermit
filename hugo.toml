@@ -85,7 +85,7 @@ expiryDate = ["expiryDate"]
 
   description = "POKOKE SEWA MOBIL JOGJA"
   # images = [""]
-  themeColor = "#494f5c"
+  themeColor = "#fffffd"
 
   homeSubtitle = "SEWANEN MOBIL JOGJA"
   footerCopyright = "BAT JOGJA"
@@ -96,13 +96,13 @@ expiryDate = ["expiryDate"]
   justifyContent = false
 
   relatedPosts = false
-  code_copy_button = true
+  code_copy_button = false
 
   homeSubtitlePrinter = true
   scrollToTop = true 
   global_mathjax = false
   readTime = true
-  readTimeSeparator = "CHANGE ME READ TIME"
+  readTimeSeparator = "WAKTU BACA"
   legacyLayout = false
   shareSocial = false
   # googleTagManager = "GTM-XXXXXXXX"
