@@ -120,9 +120,9 @@ expiryDate = ["expiryDate"]
   # noIndexPages = ["404 Page not found"]
   usesAnimation = true
 
-  [[params.socialLinks]]
-    name = "x"
-    url = "https://twitter.com/"
+#  [[params.socialLinks]]
+#    name = "x"
+#    url = "https://twitter.com/"
     
 [menu]
 
