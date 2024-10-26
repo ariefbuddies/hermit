@@ -136,7 +136,7 @@ expiryDate = ["expiryDate"]
     url = "rental+motor+jogja/"
     weight = 20
 
-  [menu.main]]
+  [[menu.main]]
     name = "Penginapan"
     url = "penginapan/"
     weight = 30
