@@ -83,13 +83,13 @@ expiryDate = ["expiryDate"]
   dateformNum     = "2006-01-02"
   dateformNumTime = "2006-01-02 15:04 -0700"
 
-  description = "CHANGE ME SITE DESCRIPTION"
+  description = "POKOKE SEWA MOBIL JOGJA"
   # images = [""]
   themeColor = "#494f5c"
 
-  #homeSubtitle = "CHANGE ME HOME SUBTITLE"
-  footerCopyright = "CHANGE ME FOOTER COPYRIGHT"
-  # footerHideThemeName = false
+  homeSubtitle = "SEWANEN MOBIL JOGJA"
+  footerCopyright = "BAT JOGJA"
+  footerHideThemeName = true
   # bgImg = ""
   # gitUrl = "https://github.com/1bl4z3r/hermit-V2/tree/staging"
 
