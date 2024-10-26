@@ -9,8 +9,8 @@ draft: false
 ---
 
 
-# <center>Rental Motor Jogj🅰️</center> 
-## Daftar Motor Rental 🚧 🛵
+# Rental Motor Jogj🅰️
+### Daftar Motor Rental 🚧 🛵
 ### Honda Beat New Street
 ![beat-trail](https://aceapugtar.cloudimg.io/raw.githubusercontent.com/ariefbuddies/bening-out/master/uploads/beat-trail.jpg?w=400&radius=25&force_format=png&)
     
