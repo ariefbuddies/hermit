@@ -5,7 +5,7 @@
 # Open Issue or Pull Request at https://github.com/1bl4z3r/hermit-V2
 
 baseURL = "https://ariefbuddies.github.io/hermit"
-defaultContentLanguage = "id"
+defaultContentLanguage = "en"
 defaultContentLanguageInSubdir = false
 theme = "hermit-v2"
 
@@ -55,7 +55,7 @@ expiryDate = ["expiryDate"]
 
 [params.author]
   name = "Bening Abadi Transport"
-  about = "BAT"
+#  about = "BAT"
 
 [blackfriday]
   # hrefTargetBlank = true
