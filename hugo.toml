@@ -13,7 +13,7 @@ theme = "hermit-v2"
   [languages.en]
     title = 'Sewa Mobil Jogja'
     [languages.en.params]
-      homeSubtitle = "Sewa mobil motor penginapan sepeda dan lain lain"
+      homeSubtitle = "Sewa mobil motor penginapan sepeda dan lain lain. Syarat mudah"
     weight = 1
 #  [languages.fr]
 #    title = 'CHANGE ME(FR)'
@@ -104,7 +104,7 @@ expiryDate = ["expiryDate"]
   readTime = true
   readTimeSeparator = "CHANGE ME READ TIME"
   # legacyLayout = false
-  shareSocial = true
+  shareSocial = false
   # googleTagManager = "GTM-XXXXXXXX"
   # tagSymbol = "#"
   # categorySymbol = "⊲"
@@ -123,11 +123,7 @@ expiryDate = ["expiryDate"]
   [[params.socialLinks]]
     name = "x"
     url = "https://twitter.com/"
-
-  [[params.socialLinks]]
-    name = "github"
-    url = "https://github.com/1bl4z3r/hermit-V2/tree/staging"
-
+    
 [menu]
 
   [[menu.main]]
