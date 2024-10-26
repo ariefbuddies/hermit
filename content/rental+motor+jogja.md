@@ -6,9 +6,9 @@ date: 2022-11-28
 author: "BAT"
 show_post_thumbnail: false
 draft: false
-# layout options: single, single-sidebar
-layout: single
 ---
+
+
 # <center>Rental Motor Jogj:a:</center> 
 ## Daftar Motor Rental 🚧 🛵
 ### Honda Beat New Street
